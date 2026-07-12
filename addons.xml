@@ -70,9 +70,9 @@ FINALE RELEASE, CUMINATION FROM HERE ON
         <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
 </dir>
 <dir>
-        <info compressed="false">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/elia1986/repository.dobbelinaelia/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/elia1986/repository.dobbelinaelia/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/elia1986/repository.dobbelinaelia/master/</datadir>
 		</dir>
     </extension>
     <extension point="xbmc.addon.metadata">
